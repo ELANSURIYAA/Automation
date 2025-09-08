@@ -1,0 +1,5 @@
+# Step 1: Go to the website "www.google.com"
+# Step 2: Check if the webpage contains google search bar
+# Step 3: Click on the link and wait for navigation
+# Step 4: Verify new page contains google search bar
+# Close browser
